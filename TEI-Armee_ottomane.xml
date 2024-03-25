@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         
+         <!-- Titre et responsabilités de l'encodage-->
+         <titleStmt>
+            <title>Lexique de l'armée ottomane</title>
+            <respStmt>
+               <resp>Encodage par</resp>
+               <persName>Kutay Sefil</persName>
+            </respStmt>
+         </titleStmt>
+         
+         <!-- Informations sur l'édition de l'encodage -->
+         <editionStmt>
+            <edition>
+               Encodage réalisé par Kutay Sefil dans le cadre des cours de TEI et XSLT du master TNAH à l'École nationale des chartes.
+            </edition>
+         </editionStmt>
+         
+         <!-- Informations sur la publication de l'encodage -->
+         <publicationStmt>
+            <publisher>École nationale des Chartes</publisher>
+            <pubPlace>Paris, France</pubPlace>
+            <date>2024</date>
+         </publicationStmt>
+         
+         <!-- Informations sur la source de l'encodage -->
+         <sourceDesc>
+             <bibl>
+                <title>Dictionnaire universel françois et latin, vulgairement appelé Dictionnaire de Trévoux</title>
+                <publisher>Compagnie des libraires associés</publisher>
+                <pubPlace>Paris, France</pubPlace>
+                <date>1771</date>
+                <distributor>Bibliothèque nationale de France</distributor>
+                <availability>
+                   <licence target="https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica">
+                      Domaine public
+                   </licence>
+                </availability>
+             </bibl>
+         </sourceDesc>
+      </fileDesc>
+      
+      <profileDesc>
+         <abstract>
+            <p>
+               Ce projet s'appuie sur le <bibl><title>Dictionnaire universel françois et latin</title>, aussi connu sous le nom de <title>Dictionnaire de Trévoux</title></bibl>. Celui-ci est daté de 1771 et est divisé en huit tomes, tous disponibles sur Gallica à l'exception du Tome 5. Historiquement, il s'agit d'un ouvrage qui synthétise les différents dictionnaires français de l'époque. Ce site regroupe cinq définitions extraites du dictionnaire et qui renvoient toutes au vocabulaire de l'armée ottomane de l'époque. Il s'agit de mots directement empruntés à la langue turque de l'époque, d'où la présence de l'expression "terme de relation" dans chaque définition. Ces mots désignent différentes unités et divisions de l'armée ottomane. L'intérêt du projet est d'avoir une description détaillée des différents corps l'armée ottomane du XVIIIe siècle telle que perçue par les Français de l'époque. Une exploitation possible du projet serait d'y ajouter plus définitions afin d'avoir un lexique plus complet.
+            </p>
+         </abstract>
+      </profileDesc>
+      
+   </teiHeader>
+   <text>
+      <body>
+         
+         <!-- Liste des définitions -->
+         
+         <entry n="1">
+            <form>
+               <orth n="1">AGA</orth>
+               <orth n="2">AGHA</orth>
+            </form>
+            <gramGrp>
+               <pos>s.</pos>
+               <gen>m.</gen>
+            </gramGrp>
+            <sense>
+               <usg type="dom">
+                  Terme d’Histoire &amp; de Relation.
+               </usg>
+               <def>
+                  Ce mot signifie dans la langue des Mogols, &amp; dans celle des Khovarezmiens, un Homme puissant, un Seigneur, &amp; un Commandant. Les Turcs se servent de ce mot pour signifier absolument un Commandant. Ainsi l’<hi>Aga</hi> des Janissaires est leur Colonel, &amp; le <hi>Capi Aga</hi> est le Capitaine de la porte du Sérail. On donne par civilité à quelques personnes le titre d’<hi>Aga</hi>, quoiqu’ils n’aient aucune charge. Quand ce mot est en régime, c’est-à-dire, quand il y a un autre substantif après lui qui en dépend, &amp; que dans nos langues occidentales nous mettrions au génitif, on dit Agassi, &amp; non pas <hi>Aga</hi>. Aussi <hi>Capi Agassi</hi>, signifie l’<hi>Aga</hi> ou le Gouverneur des Pages ; <hi>Spahilar Agassi</hi>, l’<hi>Aga</hi>, ou le Général de la Cavalerie. Du Loir écrit <hi>Agha</hi>. Quatre principaux Eunuques, qui portent tous la qualité d’<hi>Agha</hi>, sont toujours auprès du Grand Seigneur. Le premier d’entre eux est nommé <hi>Capi Agha</hi>. <bibl>Id. p. 89.</bibl> Le second est le Khazinedar Bachi ; le troisième est le Kilerdgi Bachi ; ces trois <hi>Aghas</hi> suivent par-tout le Grand-Seigneur, mais le quatrième ne sort jamais de Constantinople, &amp; pour cette raison il s’appelle <hi>Seray Agassi</hi>, l’<hi>Agha</hi> du Sérail. <bibl>Id. p. 90.</bibl> 
+               </def>
+            </sense>
+         </entry>
+         
+         <entry n="2">
+            <form>
+               <orth n="1">GEBEGIS</orth>
+               <orth n="2">GEBEGYS</orth>
+            </form>
+            <sense>
+               <usg type="dom">
+                  Terme de Relation.
+               </usg>
+               <def>
+                  Les Turcs donnent ce nom à ceux qui sont chargés de polir les armes &amp; de les distribuer. Ils sont censés du corps de l'infanterie. M. de Tournefort dit que les <hi>gebegis</hi> font les servans de l'artillerie fous les canonniers, L'Auteur des Anecd. de la Maison Ottom. écrit <hi>gebeki</hi>.
+               </def>
+            </sense>
+         </entry>
+         
+         <entry n="3">
+            <form>
+               <orth>MUSSELINS</orth>
+            </form>
+            <sense>
+               <usg type="dom">
+                  Terme de Relation.
+               </usg>
+               <def>
+                  Les Turcs donnent ce nom à des Chrétiens tributaires qui fervent de pionniers &amp; de charpentiers dans leurs armées.
+               </def>
+            </sense>
+         </entry>
+         
+         <entry n="4">
+            <form>
+               <orth>SPAHIS</orth>
+            </form>
+            <gramGrp>
+               <pos>s.</pos>
+               <gen>m.</gen>
+            </gramGrp>
+            <sense>
+               <usg type="dom">
+                  Terme de Relation.
+               </usg>
+               <def>
+                  C’est un Cavalier de l’armée Ottomane, qui est ordinairement levé en Asie. <foreign xml:lang="la">Spahisus, Eques Turcicus</foreign>. Les principales forces du Grand-Seigneur sont composées de Janissaires, qui font la meilleure partie des gens de pied, &amp; de <hi>Spahis</hi> qui font les gens de cheval.
+               </def>
+            </sense>
+         </entry>
+         
+         <entry n="5">
+            <form>
+               <orth>TOPTCHI</orth>
+            </form>
+            <gramGrp>
+               <pos>s.</pos>
+               <gen>m.</gen>
+            </gramGrp>
+            <sense>
+               <usg type="dom">
+                  Terme de Relation.
+               </usg>
+               <def>
+                  Canonier Turc. <foreign xml:lang="la">Tormentorum bellicorum librator Turcicus, Balistarius apud Turcas</foreign>. Il y a dans la ville de Candi des <hi>Toptchis</hi> &amp; Gebegis, c'est-à-dire, Canoniers &amp; autres servans l'artillerie, deux régimens de cinq cens hommes chacun, armés d'un sabre ; d'une demi-pique, &amp; d'une cotte de mâille. <bibl>TOURNEFORT, <title>Voyage</title>, T. I. p. 42.</bibl>
+               </def>
+            </sense>
+         </entry>
+         
+      </body>
+   </text>
+</TEI>
